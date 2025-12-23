@@ -1,0 +1,5 @@
+{
+  "name": "Eightsix Science Logo Generator",
+  "description": "A minimalist tool to encode text information into a generated geometric dot pattern logo.",
+  "requestFramePermissions": []
+}
